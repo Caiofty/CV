@@ -7,3 +7,5 @@
 <h3>Muuta</h3>Olen joskus vuosina 2009-2012 viimeksi tehnyt yhden pienen 3d pelin unityllä ja joitakin sovelluksia visual studiolla ja koulussa ohjelmoinnut pullon palautus automaatin
 
 mutta olen tässä 10 vuodessa unohtanut kaikki taidot ja olisin kiva jos joku auttaisi oppimaan uudestaan jotta pääsen tekemään vr hommia
+
+![Olli Pohjolainen](/kuvat/20220426_130611.jpg)

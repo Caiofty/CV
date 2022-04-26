@@ -1,6 +1,6 @@
 # <h1>Moi oon Olli Pohjolainen 29v</h1>
 
-<h3>Koulutukset</h3>Sähkö- ja automaatioasentajan ammattikoulun ja aremjan käynyt
+<h3>Koulutukset</h3>Sähkö- ja automaatioasentajan ammattikoulun ja armejan käynyt
 
 <h3>Kiinnostukset</h3>Olen todella kiinnostunut oppimaan tekemään VR pelejä ja sovelluksia
 

@@ -8,4 +8,4 @@
 
 mutta olen tässä 10 vuodessa unohtanut kaikki taidot ja olisin kiva jos joku auttaisi oppimaan uudestaan jotta pääsen tekemään vr hommia
 
-![Olli Pohjolainen](/kuvat/20220426_130611.jpg)
+![Olli Pohjolainen](/kuvat/naama.jpg)
